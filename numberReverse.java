@@ -1,4 +1,4 @@
-package leanering;
+
 import java.util.Scanner;
 public class numberReverse {
     public static void main(String []args)
